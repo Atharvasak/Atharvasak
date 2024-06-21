@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2c/1f/bc/2c1fbccd7697b0ddb11ab18a603fa143.jpg)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1UlWWrfoZCg6pfDgkpzzCxWnVGAql9ED9/view?usp=sharing)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ATHARVA SAKHARE</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
